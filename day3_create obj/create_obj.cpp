@@ -11,15 +11,15 @@ public:
 	string  hooby;
 	
 	int getAge(void);
-	string getAdds(void);
+	string  getAdds();
 	
 	void setAge(int _age);
-	string setAdds(string _adds);
+	void setAdds(string _adds);
 	
 private:
 
 	int 	age;
-	string  adds;
+	string   adds;
 };
 
 void Ex_::setAge(int _age){
@@ -32,7 +32,7 @@ void Ex_::setAge(int _age){
 
 
 
-string Ex_::setAdds(string _adds){
+void Ex_::setAdds(string _adds){
 	
 	adds = _adds;
 }
@@ -45,7 +45,7 @@ int Ex_::getAge(void){
 }
 
 
-string Ex_::getAdds(void){
+string   Ex_ :: getAdds(){
 	
 	return adds;
 }
@@ -55,7 +55,8 @@ int main(){
 	
 	cout << "-----------------" << endl ;
 	cout << "personal information" << endl ;
-	Ex_*ex;
+	
+	Ex_ *ex;
 	ex = new Ex_;
 		
 	ex->name = "wxx";
@@ -66,16 +67,13 @@ int main(){
 	cout << "nanme:" << ex->name << endl;
 	cout << "age:" 	 << ex->getAge()  << endl;
 	cout << "hooby:" << ex->hooby << endl;
-	cout << "adds:" 	 << ex->getAdds()  << endl;
-	
+	cout << "adds:"  << ex->getAdds()  << endl;
+
 	
 	delete ex;
 	
 	cout << "-----------------" << endl ;
 	
-	
-	
-	
-	
 	return 0;
 }
+
