@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/login/edittext_bj.png</file>
+        <file>image/login/farsight.png</file>
+        <file>image/login/lock_ico.png</file>
+        <file>image/login/login_bj.jpg</file>
+        <file>image/login/loging_button_bj.png</file>
+        <file>image/login/登录.jpg</file>
+        <file>image/login/管理员.png</file>
+        <file>my_image/Angel new.png</file>
+        <file>my_image/Batman.png</file>
+        <file>my_image/Vinyl Blue.png</file>
+        <file>my_image/3.gif</file>
+        <file>my_image/594b8af4c6fcb.png</file>
+        <file>my_image/b1.png</file>
+        <file>my_image/Chh5.png</file>
+        <file>my_image/q24.png</file>
+        <file>my_image/tianqi39.png</file>
+        <file>my_image/timg.jfif</file>
+        <file>my_image/f6.png</file>
+        <file>my_image/q10.png</file>
+        <file>my_image/b51.png</file>
+        <file>my_image/i3.png</file>
+        <file>my_image/Computer_001.png</file>
+        <file>my_image/g12.png</file>
+        <file>my_image/m9.png</file>
+        <file>my_image/d10.png</file>
+        <file>my_image/g1.png</file>
+        <file>my_image/tim7g.jfif</file>
+        <file>my_image/timfg.jfif</file>
+        <file>my_image/timyg.jfif</file>
+        <file>my_image/w8.png</file>
+        <file>my_image/Door.png</file>
+        <file>my_image/IMG_0125.JPG</file>
+        <file>my_image/Player End.ico</file>
+        <file>my_image/Player Fwd.ico</file>
+        <file>my_image/Player Pause.ico</file>
+        <file>my_image/Player Play.ico</file>
+        <file>my_image/Player Rew.ico</file>
+        <file>my_image/timgu.jpg</file>
+        <file>image/room/closeled_ico.png</file>
+        <file>image/room/OFF.png</file>
+        <file>image/room/ON.png</file>
+        <file>image/room/opendoor_ico.png</file>
+        <file>image/room/openled_ico.png</file>
+        <file>my_image/g8.ico</file>
+        <file>image/room/closefan_ico.png</file>
+        <file>image/room/openfan_ico.png</file>
+        <file>my_image/volume_32px_1138024_easyicon.net.png</file>
+        <file>my_image/圆形 (9).png</file>
+    </qresource>
+</RCC>
